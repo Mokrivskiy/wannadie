@@ -6,3 +6,15 @@ puts "Hello, #{name}!"
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
+
+# Default is World
+# Author: Roman Mokrivskiy
+name = ARGV.first || "World"
+
+puts "Hello, #{name}!"
+
+# Default is World
+# Author: Mokrivskiy Roman (mokrivskiyroman@gmail.com)
+name = ARGV.first || "World"
+
+puts "Hello, #{name}!"
